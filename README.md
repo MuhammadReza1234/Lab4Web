@@ -1,6 +1,6 @@
-<h1 <p align="center"><b>Praktikum 4</b></p></h1> 
+ZX<h1 <p align="center"><b>Praktikum 4</b></p></h1> 
 
-**Nama: MUhammad Reza Maulana**
+**Nama: Muhammad Reza Maulana**
 
 **NIM: 312210303**
 
