@@ -1,4 +1,4 @@
-ZX<h1 <p align="center"><b>Praktikum 4</b></p></h1> 
+<h1 <p align="center"><b>Praktikum 4</b></p></h1> 
 
 **Nama: Muhammad Reza Maulana**
 
