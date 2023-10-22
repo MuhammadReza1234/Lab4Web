@@ -61,7 +61,7 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 
 Kemudian buka browser untuk melihat hasilnya.
 
-![Screenshot (309)](https://github.com/rniarzz/Lab4Web/assets/115542704/e374234a-745b-4442-9795-a10d2bdc9b23)
+![Screenshot (309)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/0b9aea05-fa21-4ac2-ae14-16e8d20f08cf)
 
 ## Mengatur Clearfix Element
 **Clearfix** digunakan untuk mengatur element setelah float element. Property clear digunakan untuk
@@ -88,13 +88,14 @@ Kemudian atur property clear pada CSS, seperti berikut.
 ```
 Selanjutnya buka browser dan refresh kembali.
 
-![Screenshot (310)](https://github.com/rniarzz/Lab4Web/assets/115542704/1d634f65-7eda-44bd-9fdf-c4022d95fe4f)
+![Screenshot (310)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/d8f9cfa7-c36d-452d-b83c-c6d7e155c2bb)
 
 ## Membuat Layout Sederhana
 Kita akan membuat layout web sederhana seperti gambar berikut.
 
-![Screenshot (319)](https://github.com/rniarzz/Lab4Web/assets/115542704/a82ce2fa-2609-4679-93e2-a49970d7f3d9)
-![Screenshot (320)](https://github.com/rniarzz/Lab4Web/assets/115542704/7cc4430c-ee3f-49e0-b11f-ef1c3f8c8de9)
+![Screenshot (319)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/81181c48-a31c-42b5-8fd0-e93fa631b98d)
+
+![Screenshot (320)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/67333442-caa4-4a53-bae8-d5d43c6d1195)
 
 Kemudian tulis kode berikut.
 
@@ -120,7 +121,7 @@ Kemudian tulis kode berikut.
 
 Kemudian buka browser dan lihat hasilnya.
 
-![Screenshot (311)](https://github.com/rniarzz/Lab4Web/assets/115542704/fdf7b542-bb89-4620-916b-d3047a00dd7c)
+![Screenshot (311)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/8eeb73c4-5ffd-492c-979a-23052c17af02)
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
@@ -159,7 +160,7 @@ header h1 {
 ```
 Kemudian lihat hasilnya pada browser.
 
-![Screenshot (313)](https://github.com/rniarzz/Lab4Web/assets/115542704/eb5e6c84-5e87-495a-9b93-a04626967f05)
+![Screenshot (313)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/c26fc164-6457-4e98-83a0-a230911196ac)
 
 ## Membuat Navigasi
 Kemudian selanjutnya mengatur navigasi.
@@ -185,7 +186,7 @@ nav a:hover {
 ```
 Kemudian lihat hasilnya.
 
-![Screenshot (314)](https://github.com/rniarzz/Lab4Web/assets/115542704/5da97a5f-d0f5-45d2-81e7-f787c427219e)
+![Screenshot (314)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/0d2f674d-a114-4776-8f43-5491636399e1)
 
 ## Membuat Hero Panel.
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
@@ -217,7 +218,7 @@ pretium ac.</p>
 }
 ```
 
- ![Screenshot (315)](https://github.com/rniarzz/Lab4Web/assets/115542704/e7e05ae1-8f64-49dc-b62d-188ce72e036a)
+![Screenshot (315)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/1530d3d2-1638-4bef-bc90-63f770cd852b)
 
 ## Mengatur Layout Main dan Sidebar
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
@@ -298,7 +299,7 @@ Kemudian tambahkan CSS.
 }
 ```
 
-![Screenshot (316)](https://github.com/rniarzz/Lab4Web/assets/115542704/9f447bdd-d8c9-4831-a43d-328c1536bd75)
+![Screenshot (316)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/b6aa6fab-c34f-415b-b4b8-200ef4515481)
 
 ```html
 /* footer */
@@ -310,7 +311,7 @@ footer {
 }
 ```
 
-![Screenshot (318)](https://github.com/rniarzz/Lab4Web/assets/115542704/72215e3f-e4b3-4b87-981c-13a4992bab0e)
+![Screenshot (318)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/8a2c7a01-f3d7-461b-99d8-0844e09d512c)
 
 ## Menambahkan Elemen lainnya pada Main Content
 
@@ -391,7 +392,7 @@ box img {
 }
 ```
 
-![Screenshot (319)](https://github.com/rniarzz/Lab4Web/assets/115542704/55de2991-30bd-4030-a771-567be66bac79)
+![Screenshot (319)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/21c32fee-afd5-4fb4-8ee3-08529b0fcdb1)
 
 ## Menambahkan Content Artikel
 Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
@@ -442,7 +443,7 @@ pretium ac.</p>
     float: right;
 ```
 
-![Screenshot (320)](https://github.com/rniarzz/Lab4Web/assets/115542704/00a8cacc-f6ec-4b68-a90d-f3ba9e6cd880)
+![Screenshot (320)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/536bccf1-39d8-477e-a8be-b90d3266135f)
 
 ## Pertanyaan dan Tugas
 1. Tambahkan Layout untuk ```menu About```.
@@ -610,6 +611,10 @@ pretium ac.</p>
 
 ## hasil running
 
-![Screenshot (322)](https://github.com/rniarzz/Lab4Web/assets/115542704/d3fa51b6-8329-4e01-8f04-ac9b3cc8ebdd)
+**ABOUT ME**
 
-![Screenshot (321)](https://github.com/rniarzz/Lab4Web/assets/115542704/311f4662-42f6-4aa5-ab9d-7347f796340d)
+![Screenshot (327)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/14ae1398-8bf8-4e05-9b14-f1a1627d708b)
+
+**CONTACT**
+
+![Screenshot (321)](https://github.com/MuhammadReza1234/Lab4Web/assets/115516607/f7adfff1-539b-4759-894d-571edc030a9f)
