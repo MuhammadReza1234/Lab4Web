@@ -475,10 +475,10 @@ pretium ac.</p>
         </nav>
         <section id="introduce">
             <div class="row">
-                <img src="C:\Users\Asus\Pictures\milik rini\edit.JPG" title="Rini Ariza" alt="Rini Ariza" class="image-circle" width="230"
+                <img src="C:\Users\Asus\Pictures\milik reza\edit.JPG" title="Muhammad Reza Maulana" alt="Muhammad Reza Maulana" class="image-circle" width="230"
                 style="float: left; border: 2px solid black;">
-                <h1>Haii bro!</h1>
-                <p align="justify">Nama saya Rini Ariza, Saya lahir di Bekasi, 8 Mei 2004.
+                <h1>Hallo everyone!</h1>
+                <p align="justify">Nama saya Muhammad Reza Maulana, Saya lahir di Bekasi, 3 Maret 2004.
                 Saya Mahasiswa Semester 3 di Universitas Pelita Bangsa, Saya Jurusan Teknik Informatika yang sedang mempelajari materi HTML dan CSS.
                 </p>
                 
@@ -527,86 +527,6 @@ pretium ac.</p>
     </div>
 </body>
 </html>
-```
-
-## menu Artikel
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div id="container">
-        <header>
-            <h1>My Article</h1>
-        </header>
-        <nav>
-            <a href="home.html" class="active">Home</a>
-            <a href="artikel.html">Artikel</a>
-            <a href="about.html">About</a>
-            <a href="kontak.html">Kontak</a>
-        </nav>
-        <head>
-            <head>
-                <!-- menyisipkan css eksternal -->
-                <link rel="stylesheet" href="style_eksternal.css" type="text/css">
-            </head>
-        <head>
-                <title>CSS Dasar</title>
-                <style>
-                    body {
-                        font-family: 'Open Sans', sans-serif;
-                    }
-            
-                    header {
-                        min-height: 80px;
-                        border-bottom: 1px solid #77ccef;
-                    }
-            
-                    h1 {
-                        font-size: 24px;
-                        color: #0f189f;
-                        text-align: center;
-                        padding: 20px 10px;
-                    }
-            
-                    h1 i {
-                        color: #6d6a6b;
-                    }
-                </style>
-            </header>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>CSS Dasar</title>
-        </head>
-        <body>
-            <header>
-                <h1>CSS Internal dan <i>Inline </i>CSS</h1>
-            </header>
-            <nav>
-                <a href="lab2_css_dasar.html">CSS Dasar</a>
-                <a href="lab2_css_eskternal.html">CSS Eskternal</a>
-                <a href="lab1_tag_dasar.html">HTML Dasar</a>
-            </nav>
-            <!-- CSS ID Selector -->
-            <div id="intro">
-                <h1>Rini Ariza</h1>
-                <p style="text-align: center; color: #ccd8e4;">Kami sedang belajar HTML dan CSS dasar, pada mata kuliah <b>Pemrograman
-                    Web</b> di <i>Universitas Pelita Bangsa</i>. Pelajaran pertama yang kami dapat
-                    adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML
-                    dan CSS.</p>
-        
-                <!-- CSS Class Selector -->
-                <a class="button btn-primary" href="#intro">Informasi selengkapnya</a>
-            </div>
-            
-        </body>
-        </html>
 ```
 
 ## hasil running
